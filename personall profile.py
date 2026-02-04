@@ -1,0 +1,8 @@
+name = input("Enter is your full name: ")
+age = int(input("Enter is your age: "))
+favorite_colour =input("what is your favorite colour: ")
+hobby = input("What is your childhood hobby: ")
+print(name)
+print(age)
+print(favorite_colour)
+print(hobby)
